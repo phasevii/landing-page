@@ -27,3 +27,20 @@ h3 {
     font-style: italic;
     color: #1f2937;
 }
+
+.header .footer {
+    background-color: #1F2937;
+}
+
+.quote {
+    background-color: #E5E7EB;
+}
+
+.call {
+    background-color: #3882F6;
+}
+
+button {
+    background-color: #3882F6;
+}
+
