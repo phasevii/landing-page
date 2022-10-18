@@ -36,6 +36,20 @@ h3 {
 .header {
     background-color: #1F2937;
     display: flex;
+    flex-direction: column;
+}
+
+.header-main {
+    display: flex;
+}
+
+.hero {
+    display: flex;
+}
+
+.hero-main {
+    display: flex;
+    flex-direction: column;
 }
 
 .quote {
