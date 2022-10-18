@@ -2,6 +2,11 @@
     font-family: Roboto, sans-serif;
 }
 
+body {
+    display: flex;
+    flex-direction: column;
+}
+
 h1, h2, h4 {
     color: #F9FAF8;
 }
@@ -32,15 +37,22 @@ h3 {
     background-color: #1F2937;
 }
 
+.header {
+    display: flex;
+}
+
 .quote {
+    display: flex;
     background-color: #E5E7EB;
 }
 
 .call {
+    display: flex;
     background-color: #3882F6;
 }
 
 button {
+    display: flex;
     background-color: #3882F6;
 }
 
