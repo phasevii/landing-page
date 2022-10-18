@@ -41,6 +41,11 @@ h3 {
 
 .header-main {
     display: flex;
+    justify-content: space-between;
+}
+
+.header-links {
+    display: flex;
 }
 
 .hero {
