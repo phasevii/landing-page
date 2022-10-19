@@ -54,12 +54,14 @@ h3 {
 
 .hero {
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
 }
 
 .hero-main {
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    width: 400px;
 }
 
 .quote {
