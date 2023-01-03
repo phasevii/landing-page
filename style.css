@@ -110,6 +110,12 @@ blockquote {
     background-color: #3882F6;
 }
 
+.call-text {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+}
+
 button {
     display: flex;
     justify-content: center;
