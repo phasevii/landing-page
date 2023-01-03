@@ -69,10 +69,22 @@ a, .hero-text {
     width: 400px;
 }
 
+.info {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
 .images {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
+}
+
+.info-box {
+    width: auto;
+    height: auto;
+    padding: 20px;
 }
 
 .quote {
