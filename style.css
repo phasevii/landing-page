@@ -108,6 +108,8 @@ blockquote {
 .call {
     display: flex;
     background-color: #3882F6;
+    width: auto;
+    height: auto;
 }
 
 .call-text {
