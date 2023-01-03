@@ -44,13 +44,12 @@ a {
     display: flex;
     flex-direction: column;
     justify-content: space-around;
-    width: 800px;
-    height: 500px;
+    width: 100%;
 }
 
 .header-main {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 
 .header-links {
@@ -59,7 +58,7 @@ a {
 
 .hero {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 
 .hero-main {
