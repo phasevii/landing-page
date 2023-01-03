@@ -27,7 +27,8 @@ h3 {
     color: #1F2937;
 }
 
-a {
+a, .hero-text {
+    font-size: 18px;
     color: #E5E7EB;
     text-decoration: none;
 }
