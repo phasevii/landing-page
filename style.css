@@ -128,12 +128,15 @@ blockquote {
     background-color: #3882F6;
     width: auto;
     height: auto;
+    margin: 30px auto 30px auto;
+    border-radius: 20px;
 }
 
 .call-text {
     display: flex;
     flex-direction: column;
     margin: 0;
+    padding: 15px;
 }
 
 button {
