@@ -95,7 +95,7 @@ figcaption {
 .images {
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: center;
 }
 
 .info-box {
@@ -114,6 +114,13 @@ blockquote {
     margin: 100px 100px 20px 100px;
 }
 
+.call-background {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
 .call {
     display: flex;
     justify-content: center;
@@ -121,7 +128,6 @@ blockquote {
     background-color: #3882F6;
     width: auto;
     height: auto;
-    padding: 20px;
 }
 
 .call-text {
