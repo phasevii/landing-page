@@ -33,6 +33,15 @@ h3 {
     color: #1F2937;
 }
 
+h4 {
+    margin: 0%;
+}
+
+.call-p {
+    margin: 0%;
+    color: #F9FAF8;
+}
+
 a {
     line-height: 61px;
     padding-left: 10px;
@@ -129,6 +138,7 @@ blockquote {
     width: auto;
     height: auto;
     margin: 30px auto 30px auto;
+    padding-right: 50px;
     border-radius: 20px;
 }
 
@@ -136,7 +146,7 @@ blockquote {
     display: flex;
     flex-direction: column;
     margin: 0;
-    padding: 15px;
+    padding: 50px;
 }
 
 button {
@@ -144,13 +154,17 @@ button {
     justify-content: center;
     align-items: center;
     border-radius: 15px;
-    background-color: #3882F6;
-    width: 80px;
-    height: 40px;
     border: none;
+    background-color: #3882F6;
+    width: 100px;
+    height: 40px;
     font-size: 16px;
     font-weight: bold;
     color: #E5E7EB;
+}
+
+.call-button {
+    border: 2px solid #E5E7EB;
 }
 
 .footer {
